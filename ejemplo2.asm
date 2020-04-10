@@ -1,14 +1,9 @@
-;
 ; Primer Ejercicio.asm
-;
-; Created: 4/6/2020 5:02:05 PM
-; Author : Oscar Rosete
-;
-
+; Fecha: 4/6/2020 5:02:05 PM
+; Autor : Oscar Rosete
 .def temp    = R16
 
 
-; Replace with your application code
 start:
     inc r16
 	; INICIALIZACION PUERTO I/O 
